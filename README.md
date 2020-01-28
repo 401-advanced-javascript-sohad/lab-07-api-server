@@ -8,8 +8,8 @@ lab-07- Express :low_brightness: :hourglass:  :high_brightness:
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-sohad/lab-07-api-server/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-sohad/lab-07-api-server/actions)
 
 
 ### Setup
