@@ -26,5 +26,9 @@
     "jest": "^25.1.0",
     "method-override": "^3.0.0",
     "supertest": "^4.0.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
